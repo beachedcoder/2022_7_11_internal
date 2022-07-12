@@ -1,0 +1,11 @@
+test
+node_modules
+.git
+.gitignore
+Dockerfile
+yaml
+tmp
+*.yaml
+log
+*.log
+*.md
